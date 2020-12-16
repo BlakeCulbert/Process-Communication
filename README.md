@@ -1,2 +1,2 @@
 # Process-Communication
-Communication between a parent process, child process, and pipes
+Communication between a parent process, child process, and pipes. This program accepts a file name from the user in which a directory of file names will be stored, then the parent process passes the file name to the child process. The program then asks for a search string to which a grep command is executed by the child to see how many instances the search string shows up in all the given files. 
